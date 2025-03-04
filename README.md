@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I'm%20Dasun)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello%20I'm%20Dasun)
 
 ## Let's Connect and Have a Chat! 💬  
 
@@ -78,4 +78,4 @@ hobbies: ["Gaming", "Cinema", "Music", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="vscode" width="45" height="45" />                 
 </p>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
