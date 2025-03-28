@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dasun-wijekumara/"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png"/></a>
   <a href="https://dev.to/tharusha_wijekumara_e5d1f"><img src="https://img.icons8.com/windows/50/FFFFFF/dev.png"/></a>
-  <a href="https://www.instagram.com/iitz36ixty/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/></a>
+  <!-- <a href="https://www.instagram.com/iitz36ixty/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png"/></a> -->
 </p>
 
 ## 📝 A Little Bit About Me and My Interests
@@ -29,7 +29,7 @@ currently_learning:
 
 2025 Goals: ["Work on atleast 20+ projects and stable career"]
 
-hobbies: ["Gaming", "Cinema", "Music", "Art"]
+hobbies: ["Video Games", "Movies", "Music", "Drawing"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
